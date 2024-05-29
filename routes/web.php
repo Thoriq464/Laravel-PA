@@ -1,7 +1,7 @@
 <?php
 
-use App\Http\Controllers\Admin\AdminLoginController;
-use App\Http\Controllers\Admin\CategoryController;
+use App\Http\Controllers\admin\AdminLoginController;
+use App\Http\Controllers\admin\CategoryController;
 use App\Http\Controllers\admin\HomeController;
 use App\Http\Controllers\admin\SubCategoryController;
 use App\Http\Controllers\admin\TempImagesController;
